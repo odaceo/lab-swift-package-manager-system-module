@@ -1,4 +1,4 @@
-# Lab | Swift Package Manager | System Module
+# Lab :: Swift Package Manager :: System Module
 
 [![License](https://img.shields.io/github/license/odaceo/lab-swift-package-manager-system-module.svg)](LICENSE)
 
