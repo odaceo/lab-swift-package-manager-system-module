@@ -17,7 +17,7 @@ import PackageDescription
 
 let package = Package(
     name: "CUuid",
-    pkgConfig: "uuid"
+    pkgConfig: "uuid",
     providers: [
         .Brew("ossp-uuid"),
         .Apt("uuid-dev")
